@@ -6,7 +6,7 @@
 ## ENGLISH
 
 > A simple example of a CPU benchmark, the goal of which is to show the result in seconds, indicating how quickly your processor can handle various mathematical tasks. 
->  | Keep in mind that I, as a developer, do not give a 100% guarantee that this code is a working or final for use. This is just a platform for further improvement and support |
+>  | Keep in mind that I, as a developer, do not give a 100% guarantee that this code is a working or final for use. This is just a platform for further improvement and support | Development is carried out on pure enthusiasm.
 
 ---
 
